@@ -1,5 +1,5 @@
 ASSALAMUALAIKUM, This is me, Naima, 
-Developer committed to continuous improvement, scalable systems, meaningful technology and real world impact.
+Developer committed to continuous improvement, scalable systems, meaningful technology and creating real world impact.
 
 **KaziNaimaHasan/KaziNaimaHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
